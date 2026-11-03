@@ -1,19 +1,19 @@
    remote_theme: "mmistakes/minimal-mistakes@4.26.2"
    minimal_mistakes_skin: "dark"
-   title: "Your Name"
+   title: "Matteo Caporuscio"
    plugins:
      - jekyll-remote-theme
      - jekyll-include-cache
    author:
-     name: "Your Name"
+     name: "Matteo Caporuscio"
      bio: "Embedded systems & FPGA engineer"
      links:
        - label: "GitHub"
          icon: "fab fa-github"
-         url: "https://github.com/yourusername"
+         url: "https://github.com/matteocapo28"
        - label: "LinkedIn"
          icon: "fab fa-linkedin"
-         url: "https://linkedin.com/in/yourprofile"
+         url: "https://linkedin.com/in/matteo-caporuscio"
    collections:
      projects:
        output: true
