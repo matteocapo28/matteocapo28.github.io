@@ -1,6 +1,6 @@
    remote_theme: "mmistakes/minimal-mistakes@4.26.2"
    minimal_mistakes_skin: "dark"
-   title: "Matteo Caporuscio"
+   title: "Matteo Caporuscio Portfolio"
    plugins:
      - jekyll-remote-theme
      - jekyll-include-cache
