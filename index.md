@@ -11,7 +11,7 @@ intro:
 feature_row:
   - title: "Project One"
     excerpt: "One-line summary of what it does."
-    url: "/projects/AGU.md"
+    url: "/projects/AGU/"
     btn_label: "Read more"
     btn_class: "btn--primary"
   - title: "Project Two"
